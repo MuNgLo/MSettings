@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://buvynhrc3e56j"
-path="res://.godot/imported/ResetArrow.png-769f0f374bc8e9bea640351a7b465588.ctex"
+path="res://.godot/imported/ResetArrow.png-d73d770af753b6ecd85d70d3e2902a53.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://MuNgLoModules/MungloSettingsModule/ResetArrow.png"
-dest_files=["res://.godot/imported/ResetArrow.png-769f0f374bc8e9bea640351a7b465588.ctex"]
+source_file="res://addons/MSettings/ResetArrow.png"
+dest_files=["res://.godot/imported/ResetArrow.png-d73d770af753b6ecd85d70d3e2902a53.ctex"]
 
 [params]
 
