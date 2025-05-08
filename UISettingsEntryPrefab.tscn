@@ -1,7 +1,7 @@
 [gd_scene load_steps=3 format=3 uid="uid://b2moetunvrqoh"]
 
-[ext_resource type="Script" uid="uid://ov0bydyt0wpi" path="res://MuNgLoModules/MungloSettingsModule/UISettingsEntry.cs" id="1_sitll"]
-[ext_resource type="Texture2D" uid="uid://buvynhrc3e56j" path="res://MuNgLoModules/MungloSettingsModule/ResetArrow.png" id="2_hitre"]
+[ext_resource type="Script" uid="uid://cl2rua4q7rq2v" path="res://addons/MSettings/UISettingsEntry.cs" id="1_sitll"]
+[ext_resource type="Texture2D" uid="uid://b4qswll73j5ty" path="res://addons/MSettings/ResetArrow.png" id="2_hitre"]
 
 [node name="SettingsEntry" type="Control" node_paths=PackedStringArray("elementParent")]
 custom_minimum_size = Vector2(350, 30)
