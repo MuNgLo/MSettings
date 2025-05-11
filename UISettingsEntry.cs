@@ -1,7 +1,7 @@
 using System;
 using System.Reflection;
 using Godot;
-using Munglo.Commons;
+using MCommons;
 namespace Munglo.SettingsModule;
 /// <summary>
 /// Drop this in to control child UI Nodes.
