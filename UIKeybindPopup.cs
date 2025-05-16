@@ -2,7 +2,7 @@ using System;
 using System.Reflection;
 using Godot;
 
-namespace Munglo.SettingsModule;
+namespace MSettings;
 
 public partial class UIKeybindPopup : Control
 {

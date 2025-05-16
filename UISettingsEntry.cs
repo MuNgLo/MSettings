@@ -2,7 +2,7 @@ using System;
 using System.Reflection;
 using Godot;
 using MCommons;
-namespace Munglo.SettingsModule;
+namespace MSettings;
 /// <summary>
 /// Drop this in to control child UI Nodes.
 /// Set FieldTarget to the exact field name in the class definition you want to control.

@@ -1,6 +1,6 @@
 ﻿using System.Text.Json.Serialization;
 
-namespace Munglo.SettingsModule;
+namespace MSettings;
 
 [System.Serializable]
 public enum INPUTDEVICE { KEYBOARD = 0, MOUSE = 1, GAMEPAD = 2 }

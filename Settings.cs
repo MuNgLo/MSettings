@@ -5,7 +5,7 @@ using System.Reflection;
 using System;
 using System.Text.Json;
 
-namespace Munglo.SettingsModule;
+namespace MSettings;
 
 public static class Settings
 {

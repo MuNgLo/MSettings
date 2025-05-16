@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Munglo.SettingsModule;
+namespace MSettings;
 
 [AttributeUsage(AttributeTargets.Field, AllowMultiple = false)]
 public class NormalizedVolumeAttribute : Attribute
